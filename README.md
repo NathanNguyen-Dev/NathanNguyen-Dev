@@ -1,11 +1,13 @@
-### Hi there, I my name is Nathan 👋
+### Hi there, I my name is Nathan Nguyen 👋
 <br />
 
-## Currently I am a Machine Learning Practitioner and Teacher Assistant !
+## Currently I am a Data Scientist working in Supply Chain application !
 
-- 🔭 I’m currently learning everything 🤣 about ML
-- 🥅 Goals: Get Master for Data Science soon
-- ⚡ Project: Check out my Comic App at : [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/nathannguyen-dev/comic_me_v1/main.py)
+- 🔭 I’m currently undergoing a Master Degree to further my knowlegde in data field
+- ⚡ Hobbie Project from 2022 :[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/nathannguyen-dev/comic_me_v1/main.py)
+- Other project that I work in:
+  - Data mining of F&B sector for over 1 millions stores and restaurant accross Thailand provinces 
+  - Vehicle Routing Project for Philippine Pharma company
 
 
 <br />
