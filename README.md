@@ -1,5 +1,6 @@
 ### Hi there, I my name is Nathan Nguyen 👋
-<br />
+<br/>
+
 ## Currently I am a Data Scientist working in Supply Chain application !
 
 - 🔭 I’m currently undergoing a Master Degree to further my knowlegde in data field
